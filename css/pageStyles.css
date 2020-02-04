@@ -1,0 +1,66 @@
+html {
+    background: url(/wbsrv/bgimages/bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, li {
+    font-family: 'Cabin', sans-serif;
+}
+
+
+
+#pageWrapper{
+
+}
+
+#topMenuRegion{
+    display: flex;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5)
+}
+
+#TitleLogo{
+    width:55%;
+    font-size: 16px;
+}
+
+#TitleLogo a {
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+#TitleLogo a:hover{
+    text-decoration: underline;
+}
+
+
+.mlink {
+    width: 15%;
+}
+
+.mlink a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.mlink a:hover {
+    margin-left: 20px;
+    text-decoration: underline;
+    color: white;
+}
+
+#resourceLink{
+
+}
